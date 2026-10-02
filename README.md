@@ -21,5 +21,6 @@ Step 5 : Connecting the Hard Drive to the Computer
 ![image alt](https://github.com/Garnaud05/Installing-USB-Devices/blob/main/Screenshot%20(1414).png?raw=true)
 ![image alt](https://github.com/Garnaud05/Installing-USB-Devices/blob/main/Screenshot%20(1415).png?raw=true)
 
-Outcomes : I was able to succesfully set up different Peripherals to a USB Hub using the proper cables.
-I learned how to differentiate USB type A,B and Mini-B thanks to this lab.
+Outcomes of this lab : 
+I was able to succesfully set up different Peripherals to a USB Hub using the proper cables.
+I also learned how to differentiate USB type A,B and Mini-B thanks to this lab.
